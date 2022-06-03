@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omer Munk</h1>
 <h3 align="center">A passionate FullStack developer from Israel, works at Moveo group</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omermunk&label=Profile%20views&color=0e75b6&style=flat" alt="omermunk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omermunk" alt="omermunk" /></a> </p>
-
 - 🔭 I’m currently working on [Epicure - serverside](https://github.com/OmerMunkMoveo/epicure_back)
 
 - 🌱 I’m currently working with **Node.js ,MongoDB, React Redux**
