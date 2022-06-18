@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2 style="color: red;"></h2>
+<h2 style="color: red;">nj</h2>
 <table style="border-collapse: collapse; border: 1px solid black">
     <tr>
         <td style="border: 1px solid black; padding: 5px">
