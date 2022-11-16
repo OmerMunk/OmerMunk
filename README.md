@@ -4,15 +4,15 @@
 
 
 
-- 🔭 I’m currently working on [Epicure - serverside](https://github.com/OmerMunkMoveo/epicure_back)
+- 🔭 I’m currently working on [Paybox App - Backend](https://www.payboxapp.com)
 
-- 🌱 I’m currently working with **Node.js ,MongoDB, React Redux, Dart, Flutter**
+- 🌱 I’m currently working with **Node.js ,MongoDB, Redis, GCP**
 
 - 👨‍💻 All of my projects are available at my github page [https://github.com/OmerMunk?tab=repositories](https://github.com/OmerMunk?tab=repositories)
 
 - 👨‍💻 and some additional on my Job github page [https://github.com/OmerMunkMoveo](https://github.com/OmerMunkMoveo)
 
-- 💬 Ask me about **Java, Python, C, React, Angular, HTML, CSS, JS, TS, Django, Flask, Node.js, MongoDB, express, SQL, Dart, Flutter**
+- 💬 Ask me about **Java, Python, C, React, Angular, HTML, CSS, JS, TS, Django, Flask, Node.js, MongoDB, express, SQL, Redis, Dart, Flutter**
 
 - 📫 How to reach me **omermunk95@gmail.com**
 
