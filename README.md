@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Munk</h1>
-<h3 align="center">A passionate FullStack developer from Israel, works @ Moveo group</h3>
+<h3 align="center">A passionate FullStack developer from Israel, works @ [Moveo group](https://www.moveo.group)</h3>
 
 
 
