@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Omer Munk</h1>
-<h3 align="center">A passionate FullStack developer from Israel, works @ <a href="https://moveo.group">Moveo group</a></h3>
+<h3 align="center">A passionate Entrepreneur & FullStack Engineer from Israel, works @ <a href="https://www.payboxapp.com/">PayBox</a></h3>
 
 
 
 
-- 🔭 I’m currently working on [Paybox App - Backend](https://www.payboxapp.com)
+- 🔭 I’m currently working on [Mashcantas - Mobile Mortgage App (front, back & cloud)](https://www.mashcantas.com)
 
 - 🌱 I’m currently working with **Node.js ,MongoDB, Redis, GCP**
 
 - 👨‍💻 All of my projects are available at my github page [https://github.com/OmerMunk?tab=repositories](https://github.com/OmerMunk?tab=repositories)
 
-- 👨‍💻 and some additional on my Job github page [https://github.com/OmerMunkMoveo](https://github.com/OmerMunkMoveo)
+- 💬 Ask me about **Java, Python, C, React, React Native, AWS, GCP, Angular, HTML, CSS, JS, TS, Django, Flask, Node.js, MongoDB, express, SQL, Redis, Dart, Flutter**
 
-- 💬 Ask me about **Java, Python, C, React, Angular, HTML, CSS, JS, TS, Django, Flask, Node.js, MongoDB, express, SQL, Redis, Dart, Flutter**
-
-- 📫 How to reach me **omermunk95@gmail.com**
+- 📫 How to reach me **omermunk95@gmail.com** / **omermunk@mashcantas.com**
 
 - 📄 Know about my experiences [https://github.com/OmerMunk/Resume/blob/main/CV%20-%20Omer%20Munk%20(3).pdf](https://github.com/OmerMunk/Resume/blob/main/CV%20-%20Omer%20Munk%20(3).pdf)
 
