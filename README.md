@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omer Munk</h1>
-<h2 align="center">CEO [Munk Solutions](https://munk.solutions) </h2>
-<h2 align="center">CEO [Mashcantas](https://www.mashcantas.com) </h2>
+<h2 align="center">CEO <a href="https://munk.solutions/">Munk Solutions</a> </h2>
+<h2 align="center">CEO <a href="https://www.mashcantas.com/">Mashcantas</a> </h2>
 <h3 align="center">A passionate Entrepreneur & Senior FullStack & Data Engineer from Israel, works @ <a href="https://www.payboxapp.com/">PayBox</a></h3>
-- [Munk Solutions](https://munk.solutions)
+
 
 
 
