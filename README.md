@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Munk</h1>
-<h3 align="center">A passionate Entrepreneur & FullStack Engineer from Israel, works @ <a href="https://www.payboxapp.com/">PayBox</a></h3>
+<h3 align="center">A passionate Entrepreneur & Senior FullStack & Data Engineer from Israel, works @ <a href="https://www.payboxapp.com/">PayBox</a></h3>
 
 
 
