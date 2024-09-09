@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **omermunk95@gmail.com** / **omermunk@mashcantas.com**
 
-- 📄 Know about my experiences [https://github.com/OmerMunk/Resume/blob/main/CV%20-%20Omer%20Munk%20(3).pdf](https://github.com/OmerMunk/Resume/blob/main/CV%20-%20Omer%20Munk%20(3).pdf)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/omer-munk/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
